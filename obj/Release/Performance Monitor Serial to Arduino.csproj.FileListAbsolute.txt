@@ -1,0 +1,12 @@
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\bin\Release\Performance Monitor Serial to Arduino.exe.config
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\bin\Release\Performance Monitor Serial to Arduino.exe
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\bin\Release\Performance Monitor Serial to Arduino.pdb
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\bin\Release\OpenHardwareMonitorLib.dll
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\obj\Release\Performance Monitor Serial to Arduino.csproj.AssemblyReference.cache
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\obj\Release\Performance_Monitor_Serial_to_Arduino.Form1.resources
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\obj\Release\Performance_Monitor_Serial_to_Arduino.Properties.Resources.resources
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\obj\Release\Performance Monitor Serial to Arduino.csproj.GenerateResource.cache
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\obj\Release\Performance Monitor Serial to Arduino.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\obj\Release\Performance Monitor Serial to Arduino.csproj.CopyComplete
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\obj\Release\Performance Monitor Serial to Arduino.exe
+D:\PROJECTS\C#\Performance Monitor Serial to Arduino\obj\Release\Performance Monitor Serial to Arduino.pdb
